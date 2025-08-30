@@ -68,7 +68,7 @@ npm run dev
 
 ## Live Demo & Repository
 
-- **Live Demo:** [Click Here]
+- **Live Demo:** [Click Here](https://mealmate-recipe-finder.vercel.app/)
 - **Repository:** [GitHub Repo](https://github.com/Devendra-singh-baghel/MealMate-RecipeFinder)
 
 ---
